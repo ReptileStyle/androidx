@@ -1,7 +1,0 @@
-apply plugin: "kotlin"
-
-dependencies {
-    implementation(project(":public"))
-}
-
-apply from: "../shared.gradle"
